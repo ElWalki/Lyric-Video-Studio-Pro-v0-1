@@ -90,7 +90,7 @@
 *Sistema funcional de colores para organizar clips: morado, azul, verde, rojo, naranja y rosa*
 
 ### Historial de Versiones
-![Backups](screenshots/Captura%de%pantalla%2026-01-12%013506.png)
+![Backups](screenshots/image.png)
 *Sistema de autoguardado silencioso con historial de hasta 20 versiones*
 
 ---
