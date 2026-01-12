@@ -93,10 +93,6 @@
 ![Historial de Versiones](screenshots/historial_de_versiones.png)
 *Sistema de autoguardado silencioso con historial de hasta 20 versiones - cada backup muestra tiempo transcurrido, tipo (Auto/Manual) y número de líneas*
 
-### Recuperación de Proyectos
-![Recuperación de Proyectos](screenshots/recuperacion_de_proyectos.png)
-*Modal de recuperación con lista completa de backups guardados - restaura cualquier versión anterior con un solo click, incluye botones para restaurar o eliminar versiones*
-
 ---
 
 ## 🚀 Instalación
