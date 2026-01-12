@@ -81,17 +81,25 @@
 
 ## 🖼️ Capturas de Pantalla
 
-### Vista Principal
-![Vista Principal](screenshots/Captura%20de%20pantalla%202026-01-12%20010816.png)
-*Editor completo con timeline DAW-style, waveform de audio y preview en tiempo real*
+### Interfaz Principal
+![Interfaz Principal](screenshots/interfaz.png)
+*Editor completo con timeline DAW-style, waveform de audio profesional, preview en tiempo real 1920x1080 y panel de controles visual*
 
 ### Sistema de Colores de Clips
-![Sistema de Colores](screenshots/Captura%20de%20pantalla%202026-01-12%20013847.png)
-*Sistema funcional de colores para organizar clips: morado, azul, verde, rojo, naranja y rosa*
+![Cambio de Colores](screenshots/cambia_los_colores.png)
+*Menú contextual para cambiar colores de clips - organiza tu proyecto con 6 colores diferentes: morado, azul, verde, rojo, naranja y rosa*
+
+### Menú Contextual con Opciones
+![Menú Contextual](screenshots/menu_contextual_con_diferentes_opciones.png)
+*Menú contextual completo con opciones de edición: copiar, pegar, dividir clip, cambiar color y eliminar - acceso rápido a todas las funciones*
 
 ### Historial de Versiones
-![Backups](screenshots/Captura%20de%20pantalla%202026-01-12%20013024.png)
-*Sistema de autoguardado silencioso con historial de hasta 20 versiones*
+![Historial de Versiones](screenshots/historial_de_versiones.png)
+*Sistema de autoguardado silencioso con historial de hasta 20 versiones - cada backup muestra tiempo transcurrido, tipo (Auto/Manual) y número de líneas*
+
+### Recuperación de Proyectos
+![Recuperación de Proyectos](screenshots/recuperacion_de_proyectos.png)
+*Modal de recuperación con lista completa de backups guardados - restaura cualquier versión anterior con un solo click, incluye botones para restaurar o eliminar versiones*
 
 ---
 
