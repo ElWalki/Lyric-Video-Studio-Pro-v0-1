@@ -82,15 +82,15 @@
 ## 🖼️ Capturas de Pantalla
 
 ### Vista Principal
-![Vista Principal](screenshots/main-view.png)
+![Vista Principal](screenshots/Captura%20de%20pantalla%202026-01-12%20010816.png)
 *Editor completo con timeline DAW-style, waveform de audio y preview en tiempo real*
 
 ### Sistema de Sincronización
-![Sincronización](screenshots/sync-system.png)
+![Sincronización](screenshots/Captura%20de%20pantalla%202026-01-12%20013024.png)
 *Panel de sincronización con grabación en tiempo real y lista de líneas*
 
 ### Historial de Versiones
-![Backups](screenshots/backups.png)
+![Backups](screenshots/Captura%20de%20pantalla%202026-01-12%20013307.png)
 *Sistema de autoguardado silencioso con historial de versiones*
 
 ---
