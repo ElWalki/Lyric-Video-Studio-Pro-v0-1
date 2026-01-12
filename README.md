@@ -86,12 +86,8 @@
 *Editor completo con timeline DAW-style, waveform de audio profesional, preview en tiempo real 1920x1080 y panel de controles visual*
 
 ### Sistema de Colores de Clips
-![Cambio de Colores](screenshots/cambia_los_colores.png)
+![Cambio de Colores](screenshots/menu_contextual_con_diferentes_opciones.png)
 *Menú contextual para cambiar colores de clips - organiza tu proyecto con 6 colores diferentes: morado, azul, verde, rojo, naranja y rosa*
-
-### Menú Contextual con Opciones
-![Menú Contextual](screenshots/menu_contextual_con_diferentes_opciones.png)
-*Menú contextual completo con opciones de edición: copiar, pegar, dividir clip, cambiar color y eliminar - acceso rápido a todas las funciones*
 
 ### Historial de Versiones
 ![Historial de Versiones](screenshots/historial_de_versiones.png)
