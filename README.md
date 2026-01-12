@@ -85,13 +85,13 @@
 ![Vista Principal](screenshots/Captura%20de%20pantalla%202026-01-12%20010816.png)
 *Editor completo con timeline DAW-style, waveform de audio y preview en tiempo real*
 
-### Sistema de Sincronización
-![Sincronización](screenshots/Captura%20de%20pantalla%202026-01-12%20013024.png)
-*Panel de sincronización con grabación en tiempo real y lista de líneas*
+### Sistema de Colores de Clips
+![Sistema de Colores](screenshots/Captura%20de%20pantalla%202026-01-12%20013847.png)
+*Sistema funcional de colores para organizar clips: morado, azul, verde, rojo, naranja y rosa*
 
 ### Historial de Versiones
 ![Backups](screenshots/Captura%20de%20pantalla%202026-01-12%20013307.png)
-*Sistema de autoguardado silencioso con historial de versiones*
+*Sistema de autoguardado silencioso con historial de hasta 20 versiones*
 
 ---
 
