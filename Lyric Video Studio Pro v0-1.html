@@ -8,9 +8,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
-        /* ========== PARTE 1: VARIABLES Y RESET ========== */
+
         :root {
-            /* Colores principales */
+
             --bg-dark: #0a0a0b;
             --bg-panel: #121214;
             --bg-card: #1a1a1e;
@@ -18,37 +18,36 @@
             --bg-hover: #252529;
             --bg-active: #2a2a30;
             
-            /* Acentos */
+
             --accent-primary: #00d4ff;
             --accent-secondary: #7c3aed;
             --accent-success: #10b981;
             --accent-warning: #f59e0b;
             --accent-danger: #ef4444;
             --accent-record: #ff2a6d;
-            
-            /* Texto */
+
             --text-primary: #f0f0f0;
             --text-secondary: #a0a0a8;
             --text-muted: #606068;
             
-            /* Bordes */
+
             --border-color: #2a2a30;
             --border-light: #3a3a42;
             
-            /* Timeline */
+
             --timeline-bg: #0d0d10;
             --timeline-track: #1a1a20;
             --timeline-clip: #7c3aed;
             --timeline-clip-selected: #9f67ff;
             --timeline-playhead: #ff2a6d;
             
-            /* Sombras */
+
             --shadow-sm: 0 1px 2px rgba(0,0,0,0.3);
             --shadow-md: 0 4px 12px rgba(0,0,0,0.4);
             --shadow-lg: 0 8px 24px rgba(0,0,0,0.5);
             --shadow-glow: 0 0 20px rgba(0,212,255,0.3);
             
-            /* Dimensiones */
+
             --sidebar-width: 340px;
             --timeline-height: 200px;
             --timeline-min-height: 120px;
@@ -56,11 +55,10 @@
             --header-height: 48px;
             --toolbar-height: 40px;
             
-            /* Transiciones */
+
             --transition-fast: 0.15s ease;
             --transition-normal: 0.25s ease;
             
-            /* Border radius */
             --radius-sm: 4px;
             --radius-md: 6px;
             --radius-lg: 10px;
@@ -82,7 +80,6 @@
             user-select: none;
         }
 
-        /* ========== LAYOUT PRINCIPAL ========== */
         .app-container {
             display: grid;
             grid-template-rows: var(--header-height) 1fr var(--timeline-height);
@@ -95,7 +92,6 @@
             width: 100vw;
         }
 
-        /* ========== HEADER ========== */
         .app-header {
             grid-area: header;
             background: linear-gradient(180deg, var(--bg-panel) 0%, var(--bg-dark) 100%);
@@ -199,7 +195,6 @@
             box-shadow: 0 0 0 3px rgba(0,212,255,0.1);
         }
 
-        /* ========== SIDEBAR ========== */
         .sidebar {
             grid-area: sidebar;
             background: var(--bg-panel);
@@ -227,7 +222,6 @@
             background: var(--border-light);
         }
 
-        /* Tabs del sidebar */
         .sidebar-tabs {
             display: flex;
             background: var(--bg-dark);
@@ -270,7 +264,6 @@
             background: var(--bg-card);
         }
 
-        /* Contenido del sidebar */
         .sidebar-content {
             flex: 1;
             padding: 12px;
@@ -281,7 +274,6 @@
             display: block;
         }
 
-        /* Paneles colapsables */
         .panel {
             background: var(--bg-card);
             border: 1px solid var(--border-color);
@@ -338,7 +330,7 @@
             padding: 12px;
         }
 
-        /* ========== CONTROLES DE FORMULARIO ========== */
+        /* ========== CONTROLES DE FORMULARIOsS ========== */
         .form-group {
             margin-bottom: 12px;
         }
@@ -430,7 +422,7 @@
             box-shadow: 0 0 0 3px rgba(0,212,255,0.1);
         }
 
-        /* Slider personalizado */
+        /* Slider personlaizado */
         .slider-container {
             display: flex;
             align-items: center;
@@ -546,7 +538,7 @@
             color: var(--text-secondary);
         }
 
-        /* File input */
+        /* file input */
         .file-input-wrapper {
             position: relative;
         }
@@ -1929,7 +1921,7 @@
             background: linear-gradient(180deg, var(--accent-primary) 0%, rgba(0,212,255,0.6) 100%);
         }
 
-        /* Title clip */
+        /* titulo clip */
         .title-clip {
             background: linear-gradient(180deg, rgba(245,158,11,0.9) 0%, rgba(217,119,6,0.85) 100%);
             border-color: rgba(252,211,77,0.7);
@@ -1945,7 +1937,7 @@
             box-shadow: 0 0 0 1px var(--accent-warning), 0 2px 12px rgba(245,158,11,0.4), inset 0 1px 0 rgba(255,255,255,0.2);
         }
 
-        /* ========== CLIP DE AUDIO CON WAVEFORM ESTILO DAW ========== */
+        /* ========== CLIP DE AUDIO v4 ========== */
         .audio-clip {
             position: absolute;
             top: 2px;
@@ -2095,7 +2087,7 @@
             width: 80px;
         }
 
-        /* ========== MENÚ CONTEXTUAL PERSONALIZADO ========== */
+        /* ========== MENU CONTEXTUAL ========== */
         .context-menu {
             position: fixed;
             background: var(--bg-panel);
